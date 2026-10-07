@@ -1,6 +1,6 @@
 # Hi, I'm Amro Alkhatib 👋
 
-**Cybersecurity Engineer — Cyber-Resilience & Cloud** · Paris, France
+**Cloud & Cybersecurity Engineer   ** · Paris, France
 
 I design and secure data protection and cyber-resilience architectures for large enterprises: from risk analysis and DORA/NIS2 compliance to ransomware-resistant backup, Kubernetes protection and secure CI/CD.
 
